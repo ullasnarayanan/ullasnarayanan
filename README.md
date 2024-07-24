@@ -4,10 +4,7 @@
 - 📫 Reach me at ullasnarayanan01@gmail.com  
 - 🔗 Visit Linkedin Profile at https://www.linkedin.com/in/ullasnarayanan/
 - 💆‍♂️ Hobbies and Interests:
-  - 🎥 Movies
-  - 🎮 Video Games
-  - 📱 🎧 💻 ⌚ New Gadgets
-  - 🏋️ Weight Training
+  - 🎥 Movies  🎮 Video Games  📱💻 New Gadgets  🏋️ Weight Training
 
 <!---
 ullasnarayanan/ullasnarayanan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
